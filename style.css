@@ -1,0 +1,37 @@
+.heading{
+    width: 1000px;
+    height: 800px;
+ 
+    margin: auto;
+    position: relative;
+    top: 50px;
+}
+.div1{
+    width: 1000px;
+    height: 150px;
+    text-align: center;
+}
+.div2{
+    width: 495px;
+    height: 322px;
+    display: inline-block;
+    text-align: justify;
+}
+.div3{
+    width: 495px;
+    height: 322px;
+    display: inline-block;
+    text-align: justify;
+}
+.div4{
+    width: 495px;
+    height: 322px;
+    display: inline-block;
+    text-align: justify;
+}
+.div5{
+    width: 495px;
+    height: 322px;
+    display: inline-block;
+    text-align: justify;
+}
